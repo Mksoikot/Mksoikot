@@ -9,10 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammadul-kader-630982224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohammadul-kader-630982224/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadul-kader-630982224" height="30" width="40" /></a>
-<a href="https://fb.com/soykot.bhuyian" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohammadul-kader-630982224/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soykot" height="30" width="40" /></a>
-<a href="https://instagram.com/ariyan_limon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariyan_limon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucjubltmfbcwkezwbky-eatg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjubltmfbcwkezwbky-eatg" height="30" width="40" /></a>
+<a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
