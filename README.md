@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https:linkedin.com/in/mohammadul-kader-630982224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadul-kader-630982224" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammadul-kader-630982224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadul-kader-630982224" height="30" width="40" /></a>
 <a href="https://fb.com/soykot.bhuyian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhuyian" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mksoikot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mksoikot" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC8UglsrHU9XaqU-HKd9jC5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soikot" height="30" width="40" /></a>
