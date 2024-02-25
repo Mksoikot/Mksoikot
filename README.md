@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Laravel Advance**
 
-- 📫 How to reach me **mksoikotbhuiyan117.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
