@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammadul kader</h1>
-<h3 align="center">A Junior Software developer from Bangladesh</h3>
+<h3 align="center">A Software developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [UP-SEBA](http://upsebafeni.com/)
 
